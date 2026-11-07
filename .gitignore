@@ -1,0 +1,12 @@
+# The Dumb Protocol Notebook
+IGNIS_MASTER_STUDY_NOTEBOOK.md
+
+# The Alchemists Research Directory
+research/
+
+# System and temporary files
+.DS_Store
+__pycache__/
+*.pyc
+*.tmp
+scratch/
